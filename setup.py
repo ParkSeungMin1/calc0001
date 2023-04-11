@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-  inclue_package_data=True,
+  include_package_data=True,
   name="seungminpark_calc",
   version='0.0.1',
   description='oss-dev my calculator 0001',
